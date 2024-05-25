@@ -23,5 +23,7 @@ main(): 데이터 로더, 모델, 손실 함수 및 옵티마이저를 설정한
 
 실제 실험은 ipynb에서 진행을 했고, 히든 레이어 를 몇겹으로 쌓아야 가장 효율적인지 테스트 하기 위해서 일단 히든 레이어별 20epoch씩 실험을 한 후.
 가장 성능이 좋았던 레이어를 골라서 다시 50 epoch 실험을 진행. 
+![image](https://github.com/hansanghooon/24510115_shakespeare/assets/132417290/b2ffa9ae-e6e0-4ec2-a6ac-db260ade5baf)
 
- 
+![image](https://github.com/hansanghooon/24510115_shakespeare/assets/132417290/e39ba979-6bb6-407d-a75c-1f5c11e2a0c2)
+
