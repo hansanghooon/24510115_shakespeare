@@ -71,6 +71,8 @@ Epoch 48/50,LSTM Loss: 0.6122, LSTM Accuracy: 0.8197
 Epoch 49/50,LSTM Loss: 0.6064, LSTM Accuracy: 0.8219  
 Epoch 50/50,LSTM Loss: 0.6061, LSTM Accuracy: 0.8209  
 
+vanilla rnn 보다 LSTM이 성능이 더 좋았다.확실히 cell state 를 통해서 긴 시퀸스의 데이터를 좀 더 잘 해석하는것 같다.
+
 genrate.py
 high temperatures (T>1):
 
