@@ -38,7 +38,7 @@ RNN 50 epoch
 
 Training with 6 hidden layers
 
-Epoch 1/50, RNN Loss: 1.4033, RNN Accuracy: 0.5729
+Epoch 1/50, RNN Loss: 1.4033, RNN Accuracy: 0.5729 \n
 Epoch 2/50, RNN Loss: 1.2924, RNN Accuracy: 0.6006
 Epoch 3/50, RNN Loss: 1.2190, RNN Accuracy: 0.6215
 Epoch 4/50, RNN Loss: 1.1753, RNN Accuracy: 0.6337
