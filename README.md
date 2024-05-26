@@ -38,20 +38,19 @@ RNN 50 epoch
 
 Training with 6 hidden layers
 
-Epoch 1/50, RNN Loss: 1.4033, RNN Accuracy: 0.5729 
-Epoch 2/50, RNN Loss: 1.2924, RNN Accuracy: 0.6006
-Epoch 3/50, RNN Loss: 1.2190, RNN Accuracy: 0.6215
-Epoch 4/50, RNN Loss: 1.1753, RNN Accuracy: 0.6337
-Epoch 5/50, RNN Loss: 1.1453, RNN Accuracy: 0.6435
-
-...
-
-Epoch 45/50, RNN Loss: 1.0229, RNN Accuracy: 0.6795
-Epoch 46/50, RNN Loss: 1.0159, RNN Accuracy: 0.6831
-Epoch 47/50, RNN Loss: 1.0208, RNN Accuracy: 0.6814
-Epoch 48/50, RNN Loss: 1.0179, RNN Accuracy: 0.6816
-Epoch 49/50, RNN Loss: 1.0173, RNN Accuracy: 0.6823
+Epoch 1/50, RNN Loss: 1.4033, RNN Accuracy: 0.5729  
+Epoch 2/50, RNN Loss: 1.2924, RNN Accuracy: 0.6006  
+Epoch 3/50, RNN Loss: 1.2190, RNN Accuracy: 0.6215  
+Epoch 4/50, RNN Loss: 1.1753, RNN Accuracy: 0.6337  
+Epoch 5/50, RNN Loss: 1.1453, RNN Accuracy: 0.6435  
+...  
+Epoch 45/50, RNN Loss: 1.0229, RNN Accuracy: 0.6795  
+Epoch 46/50, RNN Loss: 1.0159, RNN Accuracy: 0.6831  
+Epoch 47/50, RNN Loss: 1.0208, RNN Accuracy: 0.6814  
+Epoch 48/50, RNN Loss: 1.0179, RNN Accuracy: 0.6816  
+Epoch 49/50, RNN Loss: 1.0173, RNN Accuracy: 0.6823  
 Epoch 50/50, RNN Loss: 1.0231, RNN Accuracy: 0.6798
+
 
 
 LSTM 50 epoch 
@@ -59,18 +58,18 @@ LSTM 50 epoch
 
 Training with 5 hidden layers
 
-Epoch 1/50,LSTM Loss: 1.5324, LSTM Accuracy: 0.5404
-Epoch 2/50,LSTM Loss: 1.3236, LSTM Accuracy: 0.5936
-Epoch 3/50,LSTM Loss: 1.2043, LSTM Accuracy: 0.6255
-Epoch 4/50,LSTM Loss: 1.0868, LSTM Accuracy: 0.6627
-Epoch 5/50,LSTM Loss: 1.0114, LSTM Accuracy: 0.6856
-...
-Epoch 45/50,LSTM Loss: 0.6142, LSTM Accuracy: 0.8189
-Epoch 46/50,LSTM Loss: 0.6094, LSTM Accuracy: 0.8207
-Epoch 47/50,LSTM Loss: 0.6080, LSTM Accuracy: 0.8210
-Epoch 48/50,LSTM Loss: 0.6122, LSTM Accuracy: 0.8197
-Epoch 49/50,LSTM Loss: 0.6064, LSTM Accuracy: 0.8219
-Epoch 50/50,LSTM Loss: 0.6061, LSTM Accuracy: 0.8209
+Epoch 1/50,LSTM Loss: 1.5324, LSTM Accuracy: 0.5404  
+Epoch 2/50,LSTM Loss: 1.3236, LSTM Accuracy: 0.5936  
+Epoch 3/50,LSTM Loss: 1.2043, LSTM Accuracy: 0.6255  
+Epoch 4/50,LSTM Loss: 1.0868, LSTM Accuracy: 0.6627  
+Epoch 5/50,LSTM Loss: 1.0114, LSTM Accuracy: 0.6856  
+...  
+Epoch 45/50,LSTM Loss: 0.6142, LSTM Accuracy: 0.8189  
+Epoch 46/50,LSTM Loss: 0.6094, LSTM Accuracy: 0.8207  
+Epoch 47/50,LSTM Loss: 0.6080, LSTM Accuracy: 0.8210  
+Epoch 48/50,LSTM Loss: 0.6122, LSTM Accuracy: 0.8197  
+Epoch 49/50,LSTM Loss: 0.6064, LSTM Accuracy: 0.8219  
+Epoch 50/50,LSTM Loss: 0.6061, LSTM Accuracy: 0.8209  
 
 genrate.py
 high temperatures (T>1):
